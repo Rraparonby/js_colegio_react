@@ -1,6 +1,12 @@
 # js_colegio_react
 Example of Code Generation for React
 
+## Youtube Video
+### With Nest
+https://www.youtube.com/watch?v=OXON1oq6sDo
+
+### With Springboot
+https://www.youtube.com/watch?v=3F20DCRHhDs
 
 ## Code Generated Paths
 
